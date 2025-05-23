@@ -5,8 +5,8 @@ Automated gate control system using license plate recognition with Raspberry Pi 
 
 - [Overview](#overview)  
 - [Features](#features)  
-- [Hardware Requirements](#hardware-requirements)  
-- [Software Setup](#software-setup)  
+- [Hardware](#hardware)  
+- [Setup](#setup)  
 - [Usage](#usage)  
 - [Contributing](#contributing)  
 - [License](#license)  
@@ -42,6 +42,10 @@ More details inside the documentation
 - Configure your whitelist in config/whitelist.txt (one plate per line).
 - Run the recognition script on the Pi
 - When a plate matches, the gate will open automatically and log the event to logs/
+
+## Contributing
+
+Feel free to open issues or submit pull requests. For major changes, please open an issue first to discuss what you’d like to change.
 
 ## License
 
