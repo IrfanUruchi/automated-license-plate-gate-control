@@ -14,6 +14,8 @@ Automated gate control system using license plate recognition with Raspberry Pi 
 ## Overview
 
 A fully automated gate that opens when a recognized license plate approaches, leveraging OpenCV on a Raspberry Pi for OCR and an Arduino-controlled actuator for the gate.
+**This project was completed as part of the Software for Embedded Systems.**
+
 
 ## Features
 
